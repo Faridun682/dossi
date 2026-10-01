@@ -1,0 +1,45 @@
+body {
+    background-color: #d6c7a1;
+    margin: 0;
+}
+
+.v {
+    background-color: #b89b6b;
+    padding: 20px;
+    text-align: center;
+    position: sticky;
+}
+
+.joy {
+    margin: 0 25px;
+    color: #2f2619;
+    text-decoration: none;
+    position: sticky;
+}
+
+.b {
+    background-color: #d6c7a1;
+    padding: 40px;
+    position: relative;
+}
+
+.dd {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 0 20px 25px;
+    color: #2f2619;
+}
+
+.ff {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 250px 0 25px;
+    color: #2f2619;
+}
+
+.im {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    right: 40px;
+    top: 50px;
+}

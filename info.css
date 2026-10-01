@@ -1,0 +1,29 @@
+body{
+    background-color: #d6c7a1;
+    margin: 0px;
+}
+
+.v {
+    background-color: #b89b6b;
+    padding: 20px;
+    text-align: center;
+}
+section p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+section i{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.joy {
+    margin: 0 25px;
+    color: #2f2619;
+    text-decoration: none;
+}
+
+.b {
+    background-color: #d6c7a1;
+    padding: 40px;
+    position: relative;
+}

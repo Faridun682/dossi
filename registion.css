@@ -1,0 +1,54 @@
+body {
+    background-color: #555;
+}
+
+table {
+    margin: auto;
+}
+
+table td {
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+    background-color: #ddd;
+    border-radius: 15px;
+}
+
+input {
+    margin: 10px auto;
+    font-size: 30px;
+    display: block;
+}
+
+input:invalid {
+    border: 2px solid red;
+}
+
+input:valid {
+    border: 2px solid green;
+}
+
+input:valid {
+    border: 2px solid green;
+}
+
+input:focus{color: aqua;}
+input {color:green}
+
+.head2 {
+    margin: 0px;
+    text-align: center;
+}
+
+.button {
+    background-color: #333333;
+    margin: 30px auto;
+    display: block;
+    font-size: 35px;
+    border-radius: 15px;
+}
+
+a{
+    color: #ddd;
+    text-decoration: none;
+}

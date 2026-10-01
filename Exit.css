@@ -1,0 +1,34 @@
+body {
+    background-color: #d6c7a1;
+    margin: 0;
+}
+
+.v {
+    background-color: #b89b6b;
+    padding: 20px;
+    text-align: center;
+}
+
+.joy {
+    margin: 0 25px;
+    color: #2f2619;
+    text-decoration: none;
+}
+
+.b {
+    background-color: #d6c7a1;
+    padding: 40px;
+    position: relative;
+}
+
+button{
+        margin: 0px 80px;
+        background-color: #333333;
+        font-size: 19px;
+        border-radius: 13px;
+}
+a{
+    color: #ddd;
+}
+
+
